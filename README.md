@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harris-rosenblum
 - 👀 I’m interested in learning how to code.
-- 🌱 I’m currently taking EdX CS50, and learning basic HTML/CSS and want to learn JavaScript
+- 🌱 I’m currently taking EdX CS50, and learning basic HTML/CSS and want to learn JavaScript, Python, SQL, and more
 - 💞️ I’m looking to collaborate on anything because I'm so new.
 - 📫 How to reach me - email me at hrosenblum.codes@gmail.com
 
